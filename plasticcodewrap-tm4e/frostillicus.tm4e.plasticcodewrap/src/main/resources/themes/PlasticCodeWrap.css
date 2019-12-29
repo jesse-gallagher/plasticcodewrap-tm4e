@@ -13,8 +13,6 @@
 .variable.parameter { color: #FB9A4B; }
 .invalid { color: #F8F8F8; background-color: rgba(216, 41, 13, 0.75); }
 .source { background-color: rgba(176, 179, 186, 0.08); }
-.entity_other_inherited-class { color: #4EE161; font-style: italic; }
-.string_quoted .source { color: #9DF39F; }
 .string.constant { color: #9DF39F; }
 .string.regexp { color: #FFB454; }
 .string.variable { color: #EDEF7D; }
@@ -22,7 +20,6 @@
 .support.constant { color: #EB939A; }
 .other_preprocessor_c { color: #8996A8; }
 .meta.preprocessor { color: #8996A8; }
-.other_preprocessor_c .entity { color: #AFC4DB; }
 .meta.preprocessor.string { color: #AFC4DB; }
 .string.doctype { color: #73817D; }
 .string.tag { color: #9EFFFF; }
