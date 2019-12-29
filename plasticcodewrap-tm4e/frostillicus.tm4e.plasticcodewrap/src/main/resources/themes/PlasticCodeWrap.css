@@ -1,0 +1,37 @@
+.emphasis { font-style: italic; }
+.strong { font-weight: bold; }
+.comment { color: #3998F3; font-style: italic; }
+.constant { color: #FF3A83; }
+.entity { color: #EFE900; font-weight: bold; }
+.keyword { color: #FFAA00; font-weight: bold; }
+.storage { color: #F6F080; }
+.string { color: #55E439; }
+.keyword.control { color: #55E439; }
+.support { color: #9DF39F; }
+.variable { color: #FB9A4B; }
+.variable.name { color: #FB9A4B; }
+.variable.parameter { color: #FB9A4B; }
+.invalid { color: #F8F8F8; background-color: rgba(216, 41, 13, 0.75); }
+.source { background-color: rgba(176, 179, 186, 0.08); }
+.entity_other_inherited-class { color: #4EE161; font-style: italic; }
+.string_quoted .source { color: #9DF39F; }
+.string.constant { color: #9DF39F; }
+.string.regexp { color: #FFB454; }
+.string.variable { color: #EDEF7D; }
+.support.function { color: #FFB454; }
+.support.constant { color: #EB939A; }
+.other_preprocessor_c { color: #8996A8; }
+.meta.preprocessor { color: #8996A8; }
+.other_preprocessor_c .entity { color: #AFC4DB; }
+.meta.preprocessor.string { color: #AFC4DB; }
+.string.doctype { color: #73817D; }
+.string.tag { color: #9EFFFF; }
+.entity.other.attribute-name { color: #5FE461; }
+.entity.other.attribute-name.css { color: #5FE461; }
+.markup.deleted { color: #F8F8F8; background-color: #D03620; }
+.markup.changed { color: #F8F8F8; background-color: #C4B14A; }
+.markup.inserted { color: #F8F8F8; background-color: #41A83E; }
+
+.editor { background-color: rgba(7, 22, 29, 0.86); color: #F8F8F8; }
+.editor.lineHighlight { background-color: rgba(255, 255, 255, 0.1); }
+.editor.selection { background-color: rgba(0, 182, 247, 0.65); }
